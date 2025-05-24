@@ -1,5 +1,5 @@
 # Python_HTTP-HTTPS_Proxy
-HTTP/HTTPS Relay Proxy Server written in Python using sockets
+HTTP/HTTPS Relay Proxy tcp Server written in Python using sockets
 
 ##Features
 - Support HTTP and HTTPS (via tunneling with CONNECT method)
